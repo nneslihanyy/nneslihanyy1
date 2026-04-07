@@ -29,5 +29,5 @@ As an enthusiastic and passionate software developer, I continuously strive to i
 ![Neslihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nneslihanyy&show_icons=true&theme=radical)
 
 ## Contact
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neslihan-ya%C4%9Fmurca/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neslihan-yagmurca/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neslihanyagmurca@icloud.com)
